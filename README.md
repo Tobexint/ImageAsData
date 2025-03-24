@@ -1,7 +1,7 @@
-## Summary
+# Summary
  In this lesson, we'll learn how to work with tensors in PyTorch. We'll also explore the dataset for this project, focusing on how images are represented in tensors.
 
-# Objectives
+## Objectives
 - Check important attributes of tensors, such as size, data type, and device.
 - Manipulate tensors through slicing.
 - Perform mathematical operations with tensors, including matrix multiplication and aggregation calculations.
